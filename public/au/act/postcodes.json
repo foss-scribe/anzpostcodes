@@ -1,0 +1,1178 @@
+[
+    {
+        "postcode": "0200",
+        "locality": "ANU",
+        "state": "ACT",
+        "long": 149.119,
+        "lat": -35.2777
+    },
+    {
+        "postcode": "0200",
+        "locality": "Australian National University",
+        "state": "ACT",
+        "long": 149.1189,
+        "lat": -35.2777
+    },
+    {
+        "postcode": "2540",
+        "locality": "HMAS CRESWELL",
+        "state": "ACT",
+        "long": 150.61644,
+        "lat": -34.863483
+    },
+    {
+        "postcode": "2540",
+        "locality": "JERVIS BAY",
+        "state": "ACT",
+        "long": 150.61644,
+        "lat": -34.863483
+    },
+    {
+        "postcode": "2540",
+        "locality": "WRECK BAY",
+        "state": "ACT",
+        "long": 150.707521,
+        "lat": -35.129878
+    },
+    {
+        "postcode": "2600",
+        "locality": "BARTON",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "CANBERRA",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "CAPITAL HILL",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "DEAKIN",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "DEAKIN WEST",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "DUNTROON",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "FAIRBAIRN RAAF",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "HARMAN",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "HMAS HARMAN",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "PARKES",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "PARLIAMENT HOUSE",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "RUSSELL",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "RUSSELL HILL",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2600",
+        "locality": "YARRALUMLA",
+        "state": "ACT",
+        "long": 149.201072,
+        "lat": -35.302911
+    },
+    {
+        "postcode": "2601",
+        "locality": "ACTON",
+        "state": "ACT",
+        "long": 149.113796,
+        "lat": -35.275863
+    },
+    {
+        "postcode": "2601",
+        "locality": "BLACK MOUNTAIN",
+        "state": "ACT",
+        "long": 149.113796,
+        "lat": -35.275863
+    },
+    {
+        "postcode": "2601",
+        "locality": "CANBERRA",
+        "state": "ACT",
+        "long": 149.113796,
+        "lat": -35.275863
+    },
+    {
+        "postcode": "2601",
+        "locality": "CITY",
+        "state": "ACT",
+        "long": 149.113796,
+        "lat": -35.275863
+    },
+    {
+        "postcode": "2602",
+        "locality": "AINSLIE",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2602",
+        "locality": "DICKSON",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2602",
+        "locality": "DOWNER",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2602",
+        "locality": "HACKETT",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2602",
+        "locality": "LYNEHAM",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2602",
+        "locality": "O\u2019CONNOR",
+        "state": "ACT",
+        "long": 149.145893,
+        "lat": -35.262153
+    },
+    {
+        "postcode": "2602",
+        "locality": "O'CONNOR",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2602",
+        "locality": "WATSON",
+        "state": "ACT",
+        "long": 149.148147,
+        "lat": -35.248071
+    },
+    {
+        "postcode": "2603",
+        "locality": "FORREST",
+        "state": "ACT",
+        "long": 149.125739,
+        "lat": -35.330382
+    },
+    {
+        "postcode": "2603",
+        "locality": "GRIFFITH",
+        "state": "ACT",
+        "long": 149.125739,
+        "lat": -35.330382
+    },
+    {
+        "postcode": "2603",
+        "locality": "MANUKA",
+        "state": "ACT",
+        "long": 149.125739,
+        "lat": -35.330382
+    },
+    {
+        "postcode": "2603",
+        "locality": "RED HILL",
+        "state": "ACT",
+        "long": 149.125739,
+        "lat": -35.330382
+    },
+    {
+        "postcode": "2604",
+        "locality": "CAUSEWAY",
+        "state": "ACT",
+        "long": 149.147614,
+        "lat": -35.336413
+    },
+    {
+        "postcode": "2604",
+        "locality": "KINGSTON",
+        "state": "ACT",
+        "long": 149.147614,
+        "lat": -35.336413
+    },
+    {
+        "postcode": "2604",
+        "locality": "NARRABUNDAH",
+        "state": "ACT",
+        "long": 149.147614,
+        "lat": -35.336413
+    },
+    {
+        "postcode": "2605",
+        "locality": "CURTIN",
+        "state": "ACT",
+        "long": 149.093455,
+        "lat": -35.335821
+    },
+    {
+        "postcode": "2605",
+        "locality": "GARRAN",
+        "state": "ACT",
+        "long": 149.093455,
+        "lat": -35.335821
+    },
+    {
+        "postcode": "2605",
+        "locality": "HUGHES",
+        "state": "ACT",
+        "long": 149.093455,
+        "lat": -35.335821
+    },
+    {
+        "postcode": "2606",
+        "locality": "CHIFLEY",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2606",
+        "locality": "LYONS",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2606",
+        "locality": "O\u2019MALLEY",
+        "state": "ACT",
+        "long": 149.079546,
+        "lat": -35.353521
+    },
+    {
+        "postcode": "2606",
+        "locality": "O'MALLEY",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2606",
+        "locality": "PHILLIP",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2606",
+        "locality": "PHILLIP DC",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2606",
+        "locality": "SWINGER HILL",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2606",
+        "locality": "WODEN",
+        "state": "ACT",
+        "long": 149.092601,
+        "lat": -35.351693
+    },
+    {
+        "postcode": "2607",
+        "locality": "FARRER",
+        "state": "ACT",
+        "long": 149.094831,
+        "lat": -35.369991
+    },
+    {
+        "postcode": "2607",
+        "locality": "ISAACS",
+        "state": "ACT",
+        "long": 149.094831,
+        "lat": -35.369991
+    },
+    {
+        "postcode": "2607",
+        "locality": "MAWSON",
+        "state": "ACT",
+        "long": 149.094831,
+        "lat": -35.369991
+    },
+    {
+        "postcode": "2607",
+        "locality": "PEARCE",
+        "state": "ACT",
+        "long": 149.094831,
+        "lat": -35.369991
+    },
+    {
+        "postcode": "2607",
+        "locality": "TORRENS",
+        "state": "ACT",
+        "long": 149.094831,
+        "lat": -35.369991
+    },
+    {
+        "postcode": "2608",
+        "locality": "CIVIC SQUARE",
+        "state": "ACT",
+        "long": 149.129372,
+        "lat": -35.282868
+    },
+    {
+        "postcode": "2609",
+        "locality": "CANBERRA AIRPORT",
+        "state": "ACT",
+        "long": 149.1940419,
+        "lat": -35.304469
+    },
+    {
+        "postcode": "2609",
+        "locality": "CANBERRA INTERNATIONAL AIRPORT",
+        "state": "ACT",
+        "long": 149.170023,
+        "lat": -35.31537
+    },
+    {
+        "postcode": "2609",
+        "locality": "FYSHWICK",
+        "state": "ACT",
+        "long": 149.170023,
+        "lat": -35.31537
+    },
+    {
+        "postcode": "2609",
+        "locality": "MAJURA",
+        "state": "ACT",
+        "long": 149.191968,
+        "lat": -35.289681
+    },
+    {
+        "postcode": "2609",
+        "locality": "PIALLIGO",
+        "state": "ACT",
+        "long": 149.170023,
+        "lat": -35.31537
+    },
+    {
+        "postcode": "2609",
+        "locality": "SYMONSTON",
+        "state": "ACT",
+        "long": 149.170023,
+        "lat": -35.31537
+    },
+    {
+        "postcode": "2610",
+        "locality": "CANBERRA BC",
+        "state": "ACT",
+        "long": 149.13,
+        "lat": -35.2809
+    },
+    {
+        "postcode": "2610",
+        "locality": "CANBERRA MC",
+        "state": "ACT",
+        "long": 149.13,
+        "lat": -35.2809
+    },
+    {
+        "postcode": "2611",
+        "locality": "CHAPMAN",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "COOMBS",
+        "state": "ACT",
+        "long": 149.0424372,
+        "lat": -35.3167616
+    },
+    {
+        "postcode": "2611",
+        "locality": "COREE",
+        "state": "ACT",
+        "long": 149.042021,
+        "lat": -35.356503
+    },
+    {
+        "postcode": "2611",
+        "locality": "DENMAN PROSPECT",
+        "state": "ACT",
+        "long": 149.0248146,
+        "lat": -35.29642111
+    },
+    {
+        "postcode": "2611",
+        "locality": "DUFFY",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "FISHER",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "HOLDER",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "MOUNT STROMLO",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "PIERCES CREEK",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "RIVETT",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "STIRLING",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "STROMLO",
+        "state": "ACT",
+        "long": 149.042021,
+        "lat": -35.356503
+    },
+    {
+        "postcode": "2611",
+        "locality": "URIARRA FOREST",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "URIARRA VILLAGE",
+        "state": "ACT",
+        "long": 148.9246091,
+        "lat": -35.29637716
+    },
+    {
+        "postcode": "2611",
+        "locality": "WARAMANGA",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "WESTON",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "WESTON CREEK",
+        "state": "ACT",
+        "long": 148.784415,
+        "lat": -35.322291
+    },
+    {
+        "postcode": "2611",
+        "locality": "WHITLAM",
+        "state": "ACT",
+        "long": 149.042021,
+        "lat": -35.356503
+    },
+    {
+        "postcode": "2611",
+        "locality": "WRIGHT",
+        "state": "ACT",
+        "long": 149.0335953,
+        "lat": -35.31927827
+    },
+    {
+        "postcode": "2612",
+        "locality": "BRADDON",
+        "state": "ACT",
+        "long": 149.133208,
+        "lat": -35.270615
+    },
+    {
+        "postcode": "2612",
+        "locality": "CAMPBELL",
+        "state": "ACT",
+        "long": 149.133208,
+        "lat": -35.270615
+    },
+    {
+        "postcode": "2612",
+        "locality": "REID",
+        "state": "ACT",
+        "long": 149.133208,
+        "lat": -35.270615
+    },
+    {
+        "postcode": "2612",
+        "locality": "TURNER",
+        "state": "ACT",
+        "long": 149.133208,
+        "lat": -35.270615
+    },
+    {
+        "postcode": "2614",
+        "locality": "ARANDA",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "COOK",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "HAWKER",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "JAMISON CENTRE",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "MACQUARIE",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "PAGE",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "SCULLIN",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2614",
+        "locality": "WEETANGERA",
+        "state": "ACT",
+        "long": 149.049796,
+        "lat": -35.257315
+    },
+    {
+        "postcode": "2615",
+        "locality": "CHARNWOOD",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "DUNLOP",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "FLOREY",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "FLYNN",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "FRASER",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "HIGGINS",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "HOLT",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "KIPPAX",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "KIPPAX CENTRE",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "LATHAM",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "MACGREGOR",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "MACNAMARA",
+        "state": "ACT",
+        "long": 148.9770644,
+        "lat": -35.2190829
+    },
+    {
+        "postcode": "2615",
+        "locality": "MELBA",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "SPENCE",
+        "state": "ACT",
+        "long": 149.029308,
+        "lat": -35.215386
+    },
+    {
+        "postcode": "2615",
+        "locality": "STRATHNAIRN",
+        "state": "ACT",
+        "long": 148.986288,
+        "lat": -35.23269278
+    },
+    {
+        "postcode": "2616",
+        "locality": "BELCONNEN",
+        "state": "ACT",
+        "long": 149.070336,
+        "lat": -35.248442
+    },
+    {
+        "postcode": "2617",
+        "locality": "BELCONNEN",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "BELCONNEN DC",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "BRUCE",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "EVATT",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "GIRALANG",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "KALEEN",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "LAWSON",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "MCKELLAR",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2617",
+        "locality": "UNIVERSITY OF CANBERRA",
+        "state": "ACT",
+        "long": 149.086682,
+        "lat": -35.231279
+    },
+    {
+        "postcode": "2618",
+        "locality": "HALL",
+        "state": "ACT",
+        "long": 149.043278,
+        "lat": -35.135588
+    },
+    {
+        "postcode": "2620",
+        "locality": "BEARD",
+        "state": "ACT",
+        "long": 149.2104515,
+        "lat": -35.34172619
+    },
+    {
+        "postcode": "2620",
+        "locality": "HUME",
+        "state": "ACT",
+        "long": 149.257101,
+        "lat": -35.317402
+    },
+    {
+        "postcode": "2620",
+        "locality": "KOWEN",
+        "state": "ACT",
+        "long": 149.176445,
+        "lat": -35.381752
+    },
+    {
+        "postcode": "2620",
+        "locality": "KOWEN FOREST",
+        "state": "ACT",
+        "long": 149.257101,
+        "lat": -35.317402
+    },
+    {
+        "postcode": "2620",
+        "locality": "OAKS ESTATE",
+        "state": "ACT",
+        "long": 149.257101,
+        "lat": -35.317402
+    },
+    {
+        "postcode": "2620",
+        "locality": "PADDYS RIVER",
+        "state": "ACT",
+        "long": 149.176445,
+        "lat": -35.381752
+    },
+    {
+        "postcode": "2620",
+        "locality": "THARWA",
+        "state": "ACT",
+        "long": 149.257101,
+        "lat": -35.317402
+    },
+    {
+        "postcode": "2620",
+        "locality": "TOP NAAS",
+        "state": "ACT",
+        "long": 149.257101,
+        "lat": -35.317402
+    },
+    {
+        "postcode": "2620",
+        "locality": "WILLIAMSDALE",
+        "state": "ACT",
+        "long": 149.1313792,
+        "lat": -35.56995011
+    },
+    {
+        "postcode": "2900",
+        "locality": "GREENWAY",
+        "state": "ACT",
+        "long": 149.063805,
+        "lat": -35.41891
+    },
+    {
+        "postcode": "2900",
+        "locality": "TUGGERANONG",
+        "state": "ACT",
+        "long": 149.063805,
+        "lat": -35.41891
+    },
+    {
+        "postcode": "2901",
+        "locality": "TUGGERANONG DC",
+        "state": "ACT",
+        "long": 149.069,
+        "lat": -35.4197
+    },
+    {
+        "postcode": "2902",
+        "locality": "KAMBAH",
+        "state": "ACT",
+        "long": 149.049785,
+        "lat": -35.389263
+    },
+    {
+        "postcode": "2902",
+        "locality": "KAMBAH VILLAGE",
+        "state": "ACT",
+        "long": 149.059107,
+        "lat": -35.37869
+    },
+    {
+        "postcode": "2903",
+        "locality": "ERINDALE CENTRE",
+        "state": "ACT",
+        "long": 149.081776,
+        "lat": -35.402705
+    },
+    {
+        "postcode": "2903",
+        "locality": "OXLEY",
+        "state": "ACT",
+        "long": 149.081776,
+        "lat": -35.402705
+    },
+    {
+        "postcode": "2903",
+        "locality": "WANNIASSA",
+        "state": "ACT",
+        "long": 149.081776,
+        "lat": -35.402705
+    },
+    {
+        "postcode": "2904",
+        "locality": "FADDEN",
+        "state": "ACT",
+        "long": 149.111402,
+        "lat": -35.410206
+    },
+    {
+        "postcode": "2904",
+        "locality": "GOWRIE",
+        "state": "ACT",
+        "long": 149.111402,
+        "lat": -35.410206
+    },
+    {
+        "postcode": "2904",
+        "locality": "MACARTHUR",
+        "state": "ACT",
+        "long": 149.111402,
+        "lat": -35.410206
+    },
+    {
+        "postcode": "2904",
+        "locality": "MONASH",
+        "state": "ACT",
+        "long": 149.111402,
+        "lat": -35.410206
+    },
+    {
+        "postcode": "2905",
+        "locality": "BONYTHON",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2905",
+        "locality": "CALWELL",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2905",
+        "locality": "CHISHOLM",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2905",
+        "locality": "GILMORE",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2905",
+        "locality": "ISABELLA PLAINS",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2905",
+        "locality": "RICHARDSON",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2905",
+        "locality": "THEODORE",
+        "state": "ACT",
+        "long": 149.110025,
+        "lat": -35.431011
+    },
+    {
+        "postcode": "2906",
+        "locality": "BANKS",
+        "state": "ACT",
+        "long": 149.08972,
+        "lat": -35.45676
+    },
+    {
+        "postcode": "2906",
+        "locality": "CONDER",
+        "state": "ACT",
+        "long": 149.08972,
+        "lat": -35.45676
+    },
+    {
+        "postcode": "2906",
+        "locality": "GORDON",
+        "state": "ACT",
+        "long": 149.08972,
+        "lat": -35.45676
+    },
+    {
+        "postcode": "2911",
+        "locality": "CRACE",
+        "state": "ACT",
+        "long": 149.132505,
+        "lat": -35.218737
+    },
+    {
+        "postcode": "2911",
+        "locality": "MITCHELL",
+        "state": "ACT",
+        "long": 149.132505,
+        "lat": -35.218737
+    },
+    {
+        "postcode": "2912",
+        "locality": "GUNGAHLIN",
+        "state": "ACT",
+        "long": 149.123552,
+        "lat": -35.172453
+    },
+    {
+        "postcode": "2913",
+        "locality": "CASEY",
+        "state": "ACT",
+        "long": 149.0947174,
+        "lat": -35.16700193
+    },
+    {
+        "postcode": "2913",
+        "locality": "FRANKLIN",
+        "state": "ACT",
+        "long": 149.132349,
+        "lat": -35.201802
+    },
+    {
+        "postcode": "2913",
+        "locality": "GINNINDERRA VILLAGE",
+        "state": "ACT",
+        "long": 149.132349,
+        "lat": -35.201802
+    },
+    {
+        "postcode": "2913",
+        "locality": "NGUNNAWAL",
+        "state": "ACT",
+        "long": 149.132349,
+        "lat": -35.201802
+    },
+    {
+        "postcode": "2913",
+        "locality": "NICHOLLS",
+        "state": "ACT",
+        "long": 149.132349,
+        "lat": -35.201802
+    },
+    {
+        "postcode": "2913",
+        "locality": "PALMERSTON",
+        "state": "ACT",
+        "long": 149.132349,
+        "lat": -35.201802
+    },
+    {
+        "postcode": "2913",
+        "locality": "TAYLOR",
+        "state": "ACT",
+        "long": 149.1071988,
+        "lat": -35.14680361
+    },
+    {
+        "postcode": "2914",
+        "locality": "AMAROO",
+        "state": "ACT",
+        "long": 149.125877,
+        "lat": -35.170334
+    },
+    {
+        "postcode": "2914",
+        "locality": "BONNER",
+        "state": "ACT",
+        "long": 149.125877,
+        "lat": -35.170334
+    },
+    {
+        "postcode": "2914",
+        "locality": "FORDE",
+        "state": "ACT",
+        "long": 149.125877,
+        "lat": -35.170334
+    },
+    {
+        "postcode": "2914",
+        "locality": "HARRISON",
+        "state": "ACT",
+        "long": 149.125877,
+        "lat": -35.170334
+    },
+    {
+        "postcode": "2914",
+        "locality": "JACKA",
+        "state": "ACT",
+        "long": 149.130428,
+        "lat": -35.14951653
+    },
+    {
+        "postcode": "2914",
+        "locality": "MONCRIEFF",
+        "state": "ACT",
+        "long": 149.116306,
+        "lat": -35.15882066
+    },
+    {
+        "postcode": "2914",
+        "locality": "THROSBY",
+        "state": "ACT",
+        "long": 149.1636815,
+        "lat": -35.19159199
+    }
+]
